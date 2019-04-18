@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HiPyQt1", "HiPyQt1\HiPyQt1.pyproj", "{786C7648-0526-4059-A84A-16400D97F0F4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HiPyQt2", "HiPyQt2\HiPyQt2.pyproj", "{C1C6C772-C72F-4BE5-8708-0B03209A1D67}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HiPyQt3", "HiPyQt3\HiPyQt3.pyproj", "{949CF506-62AD-4AAB-BFC7-2CE4AF230575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786C7648-0526-4059-A84A-16400D97F0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786C7648-0526-4059-A84A-16400D97F0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C6C772-C72F-4BE5-8708-0B03209A1D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C6C772-C72F-4BE5-8708-0B03209A1D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949CF506-62AD-4AAB-BFC7-2CE4AF230575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949CF506-62AD-4AAB-BFC7-2CE4AF230575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15995AC9-070A-48C9-BFA9-F27A157D706D}
+	EndGlobalSection
+EndGlobal
